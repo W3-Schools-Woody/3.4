@@ -1,0 +1,11 @@
+/* 
+    Counter
+    ver 1.0
+*/
+
+.mouseOver, .mouseOut {
+    padding: 10px;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
